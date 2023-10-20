@@ -36,7 +36,7 @@ int main(int argc, char **argv) {
   } else if(choice == 2) {
     result = a - b;
     printf("%f", result);
-  } else if(choice == 3) {//vvd
+  } else if(choice == 3) {
     result=a*b;
     printf("%f", result);
   } else if(choice == 4) {
